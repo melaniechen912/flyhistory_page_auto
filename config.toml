@@ -1,0 +1,49 @@
+author = "CIS 3500 Team 5"
+baseURL = 'https://melaniechen912.github.io/flyhistory_page_auto/'
+copyright = "CIS 3500 Team 5"
+title = "Fly History Landing Page"
+
+timeZone = 'Europe/London'
+
+# Multilingual
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+theme = "hugo-bootstrap-theme"
+
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+#enableGitInfo = true
+enableEmoji = true
+#sectionPagesMenu = "main"
+#googleAnalytics = "UA-1511XXXX-X"
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = 'series'
+tag = "tags"
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
+
+[permalinks]
+#  post = "/post/:title/"
+
+[module]
+[module.hugoVersion]
+extended = true
+max = ""
+min = "0.99.1"
+[[module.mounts]]
+source = "assets"
+target = "assets"
+[[module.mounts]]
+source = "static"
+target = "static"

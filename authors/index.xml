@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Fly History Landing Page</title>
+    <link>https://melaniechen912.github.io/flyhistory_page_auto/authors/</link>
+    <description>Recent content in Authors on Fly History Landing Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CIS 3500 Team 5</copyright>
+    <lastBuildDate>Wed, 15 May 2024 12:57:12 -0400</lastBuildDate>
+    <atom:link href="https://melaniechen912.github.io/flyhistory_page_auto/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mark Otto</title>
+      <link>https://melaniechen912.github.io/flyhistory_page_auto/authors/mark-otto/</link>
+      <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
+      <guid>https://melaniechen912.github.io/flyhistory_page_auto/authors/mark-otto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CIS3500 Team 5</title>
+      <link>https://melaniechen912.github.io/flyhistory_page_auto/authors/cis3500-team-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://melaniechen912.github.io/flyhistory_page_auto/authors/cis3500-team-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CIS3500 Team 5</title>
+      <link>https://melaniechen912.github.io/flyhistory_page_auto/authors/filipe-carneiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://melaniechen912.github.io/flyhistory_page_auto/authors/filipe-carneiro/</guid>
+      <description>CIS3500 Team 5.</description>
+    </item>
+  </channel>
+</rss>
